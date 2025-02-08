@@ -6,4 +6,3 @@ export class mulDiv {
     return d1 / d2;
   }
 }
-
